@@ -14,6 +14,7 @@ Take a look at the projects I'm most excited about right now:
 4. https://github.com/php-actions/ - A set of Github Actions to bring PHP continuous integration to projects in a consistent way - currently supporting [PHPUnit], [PHPStan], [Mess Detector] and [Code Sniffer].
 5. https://github.com/Authwave/ - a tool so you never have to build user authentication again.
 6. https://github.com/g105b/api.horse/ - API testing tool.
+7. https://www.sizzle.link/ - A burn-after-read secure secret sharing web app.
 
 [WebEngine]: https://www.php.gt/webengine/
 [Authwave]: https://github.com/authwave/
