@@ -1,6 +1,6 @@
 Hi, I'm Greg Bowler, contributor and maintainer of multiple open source projects here on Github.
 
-Text me: 07825577482, Email me: greg@g105b.com
+Text me: [07825577482](tel:07825577482), email me: [greg@g105b.com](mailto:greg@g105b.com?body=%0D%0A%0D%0A%0D%0A%0D%0Agh)
 
 The main project I'm contributing to is PHP.GT (https://github.com/phpgt) - a collection of repositories that make up [WebEngine], a tool for rapidly prototyping web products. Using WebEngine, I am building open source tools that help remove the bottlenecks of web development, such as [Authwave], [Hexform], and [API Horse].
 
